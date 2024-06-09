@@ -1,0 +1,14 @@
+---
+title: "彭燕"  # 设置博客的标题
+listing:  # 设置博客的列表
+  contents: posts  # 列表内容为posts
+  sort: "date desc"  # 根据日期倒序排序
+  type: default  # 列表类型为默认
+  categories: true  # 启用分类
+  sort-ui: false  # 关闭排序用户界面
+  filter-ui: false  # 关闭过滤用户界面
+page-layout: full  # 页面布局为全宽
+title-block-banner: true  # 标题块横幅为true
+---
+
+
